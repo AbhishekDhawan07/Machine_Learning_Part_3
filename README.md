@@ -14,7 +14,7 @@ This folder includes the following implementations:
 
 ---
 
-### 📄 Part 1 – Logistic Regression
+### 📄 Part 1 - Logistic Regression
 
 - Dataset: **titanicdataset.csv**
 - Model: Logistic Regression  
@@ -22,21 +22,21 @@ This folder includes the following implementations:
 
 ---
 
-### 📄 Part 2 – k-Nearest Neighbors (kNN)
+### 📄 Part 2 - k-Nearest Neighbors (kNN)
 
 - Dataset: **titanicdataset.csv**
 - Model: kNN Classifier  
 
 ---
 
-### 📄 Part 3 – Naive Bayes
+### 📄 Part 3 - Naive Bayes
 
 - Dataset: **titanicdataset.csv**
 - Model: Naive Bayes Classifier  
 
 ---
 
-### 📄 Part 4 – Decision Tree & Random Forest
+### 📄 Part 4 - Decision Tree & Random Forest
 
 - Dataset: **titanicdataset.csv**
 - Models:
@@ -45,14 +45,14 @@ This folder includes the following implementations:
 
 ---
 
-### 📄 Part 5 – Support Vector Machine (SVM)
+### 📄 Part 5 - Support Vector Machine (SVM)
 
 - Dataset: **titanicdataset.csv**
 - Model: SVM Classifier  
 
 ---
 
-### 📄 Part 6 – Combined Models Evaluation
+### 📄 Part 6 - Combined Models Evaluation
 
 - Dataset: **heart dataset.csv**
 - Models Applied:
